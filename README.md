@@ -2,4 +2,4 @@
 
 最近为了搭建自己的k8s集群，遇到好多问题，今天终于安装成功了。故记录下来，给需要的小伙伴参考。
 
-笔记：https://www.jianshu.com/p/8a107fc0ba05
+笔记：https://zoux86.github.io/
